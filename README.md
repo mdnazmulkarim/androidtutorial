@@ -1,5 +1,5 @@
 # androidtutorial
-The puspose of this repo in to gather potential tutorials on android apps.
+The purpose of this repo in to gather potential tutorials on android apps.
 
 ## List of links:
 
