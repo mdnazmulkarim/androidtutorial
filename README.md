@@ -1,2 +1,3 @@
 # androidtutorial
-Gather potential tutorials on android app
+The puspose of this repo in to gather potential tutorials on android apps.
+
